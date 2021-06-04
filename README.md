@@ -1,4 +1,4 @@
-### Hi there 👋, 
+### Hi there 👋
 #### Development
 ![Development](https://pbs.twimg.com/media/EVVfV0MVAAAWav1.jpg)
 
